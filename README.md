@@ -1,23 +1,23 @@
-
 # Hi, I'm tak 👋
 
-I'm an engineer interested in AI, Cloud and Software Architecture.
+AI & Cloud Engineer interested in building and understanding AI-powered systems.
 
-I enjoy exploring technologies, building things, and understanding how they work.
+I enjoy exploring technologies, experimenting with new ideas, and turning them into practical applications.
 
 ## 🔍 Interests
 
 - LLM Engineering & RAG
-- AI Systems & Agents
+- AI Agents & Workflow Automation
+- LLM Evaluation & Experimentation
 - Cloud Architecture
-- Infrastructure Automation
-- Software Development
+- Software Engineering
 
 ## 🛠 Technologies
 
 - **Languages:** Python, TypeScript, JavaScript
+- **AI & Automation:** Dify, LLMs, RAG, Power Automate
 - **Cloud:** AWS, Azure, Google Cloud
-- **Tools:** Git, Docker, Power Automate
+- **Tools:** Git, Docker
 
 ## 🚀 Projects
 
@@ -27,5 +27,8 @@ I enjoy exploring technologies, building things, and understanding how they work
 
 ## 🌱 Currently Exploring
 
-Building and experimenting with AI-powered applications
-and understanding the behavior of LLM-based systems.
+- Building AI-powered applications
+- Experimenting with LLM behavior and evaluation
+- Exploring RAG architectures and AI workflows
+- Understanding how models, prompts, and data affect AI outputs
+
