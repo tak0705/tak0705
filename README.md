@@ -1,16 +1,31 @@
-## Hi there 👋
 
-<!--
-**tak0705/tak0705** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm tak 👋
 
-Here are some ideas to get you started:
+I'm an engineer interested in AI, Cloud and Software Architecture.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy exploring technologies, building things, and understanding how they work.
+
+## 🔍 Interests
+
+- LLM Engineering & RAG
+- AI Systems & Agents
+- Cloud Architecture
+- Infrastructure Automation
+- Software Development
+
+## 🛠 Technologies
+
+- **Languages:** Python, TypeScript, JavaScript
+- **Cloud:** AWS, Azure, Google Cloud
+- **Tools:** Git, Docker, Power Automate
+
+## 🚀 Projects
+
+- [EEG_Image_decode](https://github.com/tak0705/EEG_Image_decode)
+- [Support_system](https://github.com/tak0705/Support_system)
+- [amplifyapp](https://github.com/tak0705/amplifyapp)
+
+## 🌱 Currently Exploring
+
+Building and experimenting with AI-powered applications
+and understanding the behavior of LLM-based systems.
